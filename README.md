@@ -42,3 +42,10 @@ Eu sou desenvolvedor **Front End**.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
+
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Pablo Martins](https://img.shields.io/badge/-PABLOMARTINS1515-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablomartins1515/)](https://www.linkedin.com/in/pablomartins1515/)
+[![Gmail Badge](https://img.shields.io/badge/-pablomartins1515@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablomartins1515@gmail.com)](mailto:pablomartins1515@gmail.com)
+[![GitHub pablomartins1515]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/pablomartins1515)
